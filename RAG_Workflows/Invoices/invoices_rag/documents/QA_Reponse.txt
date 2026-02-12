@@ -1,0 +1,40 @@
+Question: What is the total invoice amount?
+Searching documents...
+Found 3 relevant chunks from {'invoice_001.pdf', 'invoice_014.pdf', 'invoice_005.pdf'}
+Answer:  The total invoice amounts are as follows:
+
+1. INV-2024-00001: USD 13,167.50
+2. INV-2024-00014: EUR 16,111.70
+3. INV-2024-00005: EUR 17,751.58
+
+Each invoice provides a Total Amount Due for its respective invoice.
+
+
+Question: Who are the vendors mentioned?
+Searching documents...
+Found 3 relevant chunks from {'invoice_015.pdf', 'invoice_001.pdf', 'invoice_006.pdf'}
+Answer:  The vendors mentioned in the provided invoice data are Global Supply Inc. and Industrial Products Group.
+
+
+Question: What are the invoice dates?
+Searching documents...
+Found 3 relevant chunks from {'invoice_001.pdf', 'invoice_003.pdf', 'invoice_005.pdf'}
+Answer:  The invoice dates are 2025-12-17 (for INV-2024-00003), 2025-11-22 (for INV-2024-00001), and 2026-02-06 (for INV-2024-00005).
+
+
+Question: What items were invoiced?
+Searching documents...
+Found 3 relevant chunks from {'invoice_002.pdf', 'invoice_012.pdf', 'invoice_005.pdf'}
+Answer:  The items that were invoiced are as follows:
+
+1. From Enterprise Services Ltd. (INV-2024-00012):
+   - 4x Hardware Equipment (EUR 11,996.00)
+
+2. From Enterprise Services Ltd. (INV-2024-00005):
+   - 3x Hardware Equipment (EUR 8,997.00)
+   - 2x Software License (EUR 999.98)
+   - 2x Technical Support (EUR 2,400.00)
+   - 4x Cloud Storage (Annual) (EUR 2,396.00)
+
+3. From Global Supply Inc. (INV-2024-00002):
+   - 4x Hardware Equipment (USD 11,996.00)
