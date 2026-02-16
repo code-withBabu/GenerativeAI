@@ -79,11 +79,15 @@ def query_invoices(question):
 
 if __name__ == "__main__":
     # Test queries
+    # test_queries = [
+    #     "What is the total invoice amount?",
+    #     "Who are the vendors mentioned?",
+    #     "What are the invoice dates?",
+    #     "What items were invoiced?"
+    # ]
     test_queries = [
         "What is the total invoice amount?",
-        "Who are the vendors mentioned?",
-        "What are the invoice dates?",
-        "What items were invoiced?"
+        "Who are the vendors mentioned?"
     ]
     
     for query in test_queries:
